@@ -5,7 +5,9 @@
 https://github.com/ardamavi/Sign-Language-Digits-Dataset.git
 
 El dataset consta de un total de 2.062 imagenes.
+
 El dataset está formado por 10 classes: los 10 números básicos, del 0 al 9.
+
 Cada classe tiene entre 204 y 208 imagenes.
 
 Posteriormente, para entrenar y validar el modelo, el dataset se divide en tres partes: train (70%), validation (15%) y test (15%).
